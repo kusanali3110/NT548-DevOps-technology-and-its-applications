@@ -47,7 +47,7 @@ terraform plan
 ```
 Now the AWS Infrastructure is completely deployed
 
-### CloudFormation (working in progress)
+### CloudFormation
 1. Clone this project with this git command
 ```
 git clone https://github.com/nahidacunny/NT548-DevOps-technology-and-its-applications.git
