@@ -22,5 +22,5 @@ Since every task need to integrate CI/CD pipeline in building, testing and deplo
 Here are links to navigate to every task:
 - Task 1: https://github.com/kusanali3110/NT548-Lab2-Task1
 - Task 2: (Working in process)
-- Task 3: (Working in process)
+- Task 3: https://github.com/tdk0702/NT548-Lab2-Task3
 
