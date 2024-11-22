@@ -21,6 +21,6 @@ Manage and deploy AWS infrastructure and apply microservices with Terraform, Clo
 Since every task need to integrate CI/CD pipeline in building, testing and deploying process, we have separated tasks into independent reposistory.
 Here are links to navigate to every task:
 - Task 1: https://github.com/kusanali3110/NT548-Lab2-Task1
-- Task 2: (Working in process)
+- Task 2: https://github.com/DuongHung1712/NT548-Lab2-Task2
 - Task 3: https://github.com/tdk0702/NT548-Lab2-Task3
 
